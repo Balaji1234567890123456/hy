@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.kol {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+}
